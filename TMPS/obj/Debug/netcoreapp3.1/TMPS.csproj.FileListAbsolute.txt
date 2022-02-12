@@ -1,0 +1,14 @@
+C:\Users\Samidare\source\repos\TMPS\TMPS\bin\Debug\netcoreapp3.1\TMPS.exe
+C:\Users\Samidare\source\repos\TMPS\TMPS\bin\Debug\netcoreapp3.1\TMPS.deps.json
+C:\Users\Samidare\source\repos\TMPS\TMPS\bin\Debug\netcoreapp3.1\TMPS.runtimeconfig.json
+C:\Users\Samidare\source\repos\TMPS\TMPS\bin\Debug\netcoreapp3.1\TMPS.runtimeconfig.dev.json
+C:\Users\Samidare\source\repos\TMPS\TMPS\bin\Debug\netcoreapp3.1\TMPS.dll
+C:\Users\Samidare\source\repos\TMPS\TMPS\bin\Debug\netcoreapp3.1\TMPS.pdb
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.csproj.AssemblyReference.cache
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.AssemblyInfoInputs.cache
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.AssemblyInfo.cs
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.csproj.CoreCompileInputs.cache
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.dll
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.pdb
+C:\Users\Samidare\source\repos\TMPS\TMPS\obj\Debug\netcoreapp3.1\TMPS.genruntimeconfig.cache
